@@ -23,4 +23,5 @@ for i in range(1, k + 1):
         count += 1
 
 print(f"Кол-во: {count}")
+
 '''
